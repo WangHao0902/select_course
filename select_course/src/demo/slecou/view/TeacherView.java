@@ -1,0 +1,19 @@
+package demo.slecou.view;
+
+public interface TeacherView {
+
+	public void showTeacher();
+	
+	//ÐÂÔö
+	public void saveTeacher();
+	
+	//ÐÞ¸Ä
+	public void updateTeacher();
+	
+	//É¾³ý
+	public void deleteTeacher();
+
+	
+	public void lookstu();
+	
+}

@@ -1,0 +1,17 @@
+package demo.slecou.view;
+
+public interface CourseView {
+
+	public void showCourse();
+	
+	//ÐÂÔö
+	public void saveCourse();
+	
+	//ÐÞ¸Ä
+	public void updateCourse();
+	
+	//É¾³ý
+	public void delete();
+
+	public void lookstu();
+}
